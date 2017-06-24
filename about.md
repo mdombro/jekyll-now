@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am an electrical engineer in snowy Syracuse NY. I fly RC planes and tinker with hobby electronics - make circuit boards and write tedious C code.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mdombro4@gmail.com](mailto:email@domain.com)
