@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout: post
 title: First Flight Take 1...
 published: true
