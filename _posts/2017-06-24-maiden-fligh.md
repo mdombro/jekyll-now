@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout: post
 title: Actual Maiden Flight
 published: true
